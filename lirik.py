@@ -5,13 +5,12 @@ import time
 def jalanin_lirik():
     # Ubah lirik lagu dan delay hurufnya sesuai yang kalian mau
     lirik = [
-        ("Dengar Laraku", 0.1),
-        ("Suara hati ini memanggil namamu", 0.09),
-        ("Karena separuh aku", 0.09),
-        ("Menyentuh laramu", 0.09),
-        ("Semua lukamu t'lah menjadi lirihku", 0.09),
-        ("Kar'na separuh aku", 0.09),
-        ("Dirimu", 0.09),
+        ("Sudah terbiasa terjadi tante", 0.4),
+        ("teman datang ketika lagi butuh saja", 0.5),
+        ("coba kalau lagi susaaah", 0.3),
+        ("mereka semua", 0.5),
+        ("menghilaaaaaaang", 0.5),
+    
     ]
 
     # Ubah delay dari setiap baris lagu (sesuaikan jumlah)
